@@ -24,7 +24,6 @@ void function()
     std::cin >> phone;
     std::cout << "Ok, " << phone << ". You wouldn't mind telling me your birthday, so I can add that to my phone while I'm at it?\n";
     std::cin >> birthday;
-    //std::cout << birthday
     std::cout << "ok, " << birthday << ". Well, it was cool meeting you, but I have to go now. See you later!";
 
 }
